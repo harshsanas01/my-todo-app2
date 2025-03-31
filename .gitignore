@@ -1,0 +1,8 @@
+# Ignore node_modules in all folders
+**/node_modules
+
+# Ignore build output from React app
+client/build
+
+# Optionally ignore logs
+*.log
